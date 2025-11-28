@@ -47,16 +47,48 @@ social_media:
   # youtube: your_username
 
 topics:
+topics:
   - name: Angular
     web_url: https://github.com/topics/angular
     image_url: https://images.seeklogo.com/logo-png/33/2/angular-logo-png_seeklogo-331629.png
-    
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Web design
 
   - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  
+  - name: .NET Core
+    web_url: https://github.com/topics/dotnet-core
+    image_url: https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg
+    
+  - name: C#
+    web_url: https://github.com/topics/csharp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png
+    
+  - name: IoT
+    web_url: https://github.com/topics/iot
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/iot/iot.png
+    
+  - name: Industrial Automation
+    web_url: https://github.com/topics/industrial-automation
+    
+  - name: Real-time Data Processing
+    web_url: https://github.com/topics/real-time
+    
+  - name: SignalR
+    web_url: https://github.com/topics/signalr
+    image_url: https://avatars.githubusercontent.com/u/6154722?s=200&v=4
+    
+  - name: Entity Framework
+    web_url: https://github.com/topics/entity-framework
+    
+  - name: Background Services
+    web_url: https://github.com/topics/background-jobs
+    
+  - name: Clean Architecture
+    web_url: https://github.com/topics/clean-architecture
+    
+  - name: CQRS
+    web_url: https://github.com/topics/cqrs
+    
+  - name: Manufacturing
+    web_url: https://github.com/topics/manufacturing
