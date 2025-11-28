@@ -49,8 +49,7 @@ social_media:
 topics:
   - name: Angular
     web_url: https://github.com/topics/angular
-    image_url: https://angular.dev/assets/images/ng-image.jpg
-
+    image_url: https://images.seeklogo.com/logo-png/33/2/angular-logo-png_seeklogo-331629.png
     
   - name: CSS
     web_url: https://github.com/topics/css
